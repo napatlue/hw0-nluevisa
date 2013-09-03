@@ -4,8 +4,8 @@
 	<artifactId>hw0-nluevisa</artifactId>
 	<version>0.0.2-SNAPSHOT</version>
 	<scm>
-		<connection>scm:git:https://github.com/napatlue/hw0-nluevisa.git</connection>
-		<developerConnection>scm:git:https://github.com/napatlue/hw0-nluevisa.git</developerConnection>
+		<connection>scm:git:git://github.com/napatlue/hw0-nluevisa.git</connection>
+		<developerConnection>scm:git:git://github.com/napatlue/hw0-nluevisa.git</developerConnection>
 		<tag>hw0-nluevisa-0.0.2</tag>
 	</scm>
 	<repositories>
@@ -17,13 +17,11 @@
 	<distributionManagement>
 		<repository>
 			<id>deployment</id>
-			<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/
-          course-releases</url>
+			<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/course-releases</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshots</id>
-			<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/
-          course-snapshots</url>
+			<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/course-snapshots</url>
 		</snapshotRepository>
 	</distributionManagement>
 	<build>
