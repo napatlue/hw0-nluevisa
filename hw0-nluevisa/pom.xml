@@ -6,7 +6,7 @@
 	<version>0.0.2-SNAPSHOT</version>
 	<scm>
 		<connection>scm:git:git://github.com/napatlue/hw0-nluevisa.git</connection>
-		<developerConnection>scm:git:git://github.com/napatlue/hw0-nluevisa.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:napatlue/hw0-nluevisa.git</developerConnection>
 	</scm>
 	<repositories>
 		<repository>
