@@ -3,10 +3,10 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.cmu.lti.11791.f13.hw0</groupId>
 	<artifactId>hw0-nluevisa</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<scm>
 		<connection>scm:git:https://github.com/napatlue/hw0-nluevisa.git</connection>
-		<developerConnection>scm:git:git@github.com:napatlue/hw0-nluevisa.git</developerConnection>
+		<developerConnection>scm:git:https://github.com/napatlue/hw0-nluevisa.git</developerConnection>
 	</scm>
 	<repositories>
 		<repository>
