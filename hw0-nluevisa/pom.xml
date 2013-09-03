@@ -4,8 +4,8 @@
 	<artifactId>hw0-nluevisa</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<scm>
-		<connection>scm:git:git://github.com/napatlue/hw0-nluevisa.git</connection>
-		<developerConnection>scm:git:git://github.com/napatlue/hw0-nluevisa.git</developerConnection>
+		<connection>scm:git:git@github.com:napatlue/hw0-nluevisa.git</connection>
+		<developerConnection>scm:git:git@github.com:napatlue/hw0-nluevisa.git</developerConnection>
 	</scm>
 	<repositories>
 		<repository>
